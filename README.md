@@ -1,6 +1,6 @@
 # Walmart-TimeSeries-Analysis
 Walmart is a global retail giant with a vast network of stores and a wide range of products. Effective inventory management and sales prediction are critical for Walmart's operations. Our project focuses on leveraging time series forecasting techniques to optimize these processes.
-It e involves analyzing historical sales data to unveil intricate temporal patterns and construct resilient forecasting models. The goal is to empower Walmart to achieve ideal inventory levels, make strategic pricing decisions, and maximize resource efficiency.
+It involves analyzing historical sales data to unveil intricate temporal patterns and construct resilient forecasting models. The goal is to empower Walmart to achieve ideal inventory levels, make strategic pricing decisions, and maximize resource efficiency.
 
 ![alt text](https://github.com/BlackReaper0/Walmart-TimeSeries-Analysis/blob/main/Poster_Walmart_TSF.jpg)
 
